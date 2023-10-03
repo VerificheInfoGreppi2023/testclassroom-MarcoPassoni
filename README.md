@@ -1,5 +1,3 @@
-Ecco una versione estesa del file README.md con la licenza GNU GPLv3 inclusa:
-
 ```markdown
 # Repository di Studio HTML, CSS e JavaScript
 
